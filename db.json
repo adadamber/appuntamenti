@@ -1,0 +1,14 @@
+{"APPUNTAMENTI":[
+    {
+      "id": 2,
+      "nome": "MANUTENZIONE",
+      "categoria":{
+        "id": 1,
+        "nome": "INSTALLAZIONE",
+        "codice": "INSTA",
+        "descrizione": null
+      },
+      "citta": "null",
+      "data": "2021-07-20T21:28:32.781Z"
+    }]
+    }
